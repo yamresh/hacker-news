@@ -1,0 +1,30 @@
+{
+  "name": "hacker-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamrehan/hacker-news.git"
+  },
+  "author": "yaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamrehan/hacker-news/issues"
+  },
+  "homepage": "https://github.com/yamrehan/hacker-news#readme",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.3.4",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
